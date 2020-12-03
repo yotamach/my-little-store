@@ -1,0 +1,33 @@
+.grid{
+    flex-grow: 1;
+}
+.card{
+    max-width: 345;
+}
+
+.item-paper{
+    padding: 1px;
+    text-align: center;
+    color: blue;
+    white-space: nowrap;
+    margin-bottom: 1px;
+}
+
+.productItem{
+    padding: 5px;
+    margin: 5px 15px;
+}
+
+
+.MuiCardContent-root{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search, .title{
+    text-align: left;
+}
+
+.stock-card{
+    padding: 16px;
+}
